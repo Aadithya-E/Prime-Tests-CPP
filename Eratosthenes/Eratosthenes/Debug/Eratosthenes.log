@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Documents\GitHub\Prime-Tests-CPP\Eratosthenes\Eratosthenes\main.cpp(34,10): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Eratosthenes.vcxproj -> D:\Documents\GitHub\Prime-Tests-CPP\Eratosthenes\Debug\Eratosthenes.exe
