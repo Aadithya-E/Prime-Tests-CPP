@@ -39,7 +39,6 @@ int main()
 		{
 			continue;
 		}
-		for (j = 0; j < max - 1; j++)
 		for (j = i-1; j < max - 1; j += i)
 		{
 			lbool[j] = true;
