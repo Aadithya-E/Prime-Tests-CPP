@@ -40,11 +40,9 @@ int main()
 			continue;
 		}
 		for (j = 0; j < max - 1; j++)
+		for (j = i-1; j < max - 1; j += i)
 		{
-			if ((j + 1) % i == 0 && (j + 1) != i)
-			{
-				lbool[j] = true;
-			}
+			lbool[j] = true;
 		}
 	}
 
